@@ -17,5 +17,16 @@
         "path": "./themes/SQL Dark Professional-color-theme.json"
       }
     ]
-  }
+  },
+  "icon": "./images/icon.png",
+  "author": {
+    "name": "Juan Jose LH",
+    "email": "juan.lazo@uni.pe",
+    "url": "https://www.linkedin.com/in/juanjoselazohoyos/"
+  },
+  "repository": {
+    "url": "https://github.com/wernerlh/sql-theme",
+    "type": "git"
+  },
+  "publisher": "juanjo-LH"
 }
