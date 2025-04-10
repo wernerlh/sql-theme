@@ -2,7 +2,7 @@
   "name": "sql-theme",
   "displayName": "SQL Theme",
   "description": "SQL Dark Professional - A sophisticated dark theme optimized for database development",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.99.0"
   },
